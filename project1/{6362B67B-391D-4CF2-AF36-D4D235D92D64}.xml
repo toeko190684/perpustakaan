@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<configuration date="2015/03/25" author="e.World Technology Ltd.">
+<project id="{6362B67B-391D-4CF2-AF36-D4D235D92D64}" file="C:\Users\Toeko Triyanto\Desktop\project1.pmp" name="project1" product="PHPMaker" version="11.0" datetime="2015/03/25 09:37:17" languagefolder="phplang" userlevel="0,&quot;Default&quot;,0">
+<table id="anggota" name="anggota" caption="anggota" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="buku" name="buku" caption="buku" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="peminjaman" name="peminjaman" caption="peminjaman" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="pengarang" name="pengarang" caption="pengarang" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="Laporan_Buku" name="Laporan Buku" caption="Laporan Buku" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="view_peminjaman" name="view_peminjaman" caption="view peminjaman" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="Laporan_Peminjaman" name="Laporan Peminjaman" caption="Laporan Peminjaman" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="Laporan_Anggota" name="Laporan Anggota" caption="Laporan Anggota" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="users" name="users" caption="users" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="user_level" name="user_level" caption="user level" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="user_level_permission" name="user_level_permission" caption="user level permission" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+</project></configuration>
